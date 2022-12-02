@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lm7154
-- 👀 I’m interested in Data Analytic, Algorithm Trading, and Software Development
-- 🌱 I’m currently creating visuals for machine learning outcome.
+- 👀 I’m interested in Machine Learning, Algorithm Trading, and Software Development
+- 🌱 I’m currently creating a website to visualize real estate prices in nyc.
 - ✨ I'm learning Web development and Deep Learning. 
-- 💞️ I’m looking to collaborate on applying Data Science mathods in Real Estate Market. 
 - 📫 My email is dm4542@nyu.edu. Feel free to reach out!
 
 <!---
