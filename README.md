@@ -2,13 +2,13 @@
 
 A few things about me: 
 
-📈 Passionate about Algorithmic Trading, Cyber Security, and Software Development.
+📈 Passionate about Algorithmic Trading and Software Development.
 
 🏠 Currently developing a website aimed at simplifying the search for the ideal house in NYC.
 
 🔍 Deeply fascinated by Abstract Algebra and a wide range of mathematical subjects.
 
-🌐 Conducted researches on simulating post-disaster scenarios, particularly focusing on the aftermath of a Bay Area earthquake.
+🌐 Conducted researches on simulating post-disaster scenarios in the past. 
 
 📚 Always eager to learn more!
 
